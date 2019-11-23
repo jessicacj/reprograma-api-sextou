@@ -1,4 +1,4 @@
-# {reprograma} Semana 10 - NODE.JS + MONGO + API
+# {reprograma} Semana 10 - NODE.JS + MONGO + API :computer:
 
 ![rep](https://user-images.githubusercontent.com/42447794/69483022-3549b300-0e01-11ea-85f0-a8de16f95179.png)
 
@@ -23,9 +23,9 @@ Criar uma API, com banco de dados, que retorne qual filme deve aparecer no topo 
 
 ### Endpoints
 
-GET "/" => rota inicial da API.
-GET "/filmes/catalogo" => retorna os filmes ordenados por pontuação, exibindo a pontuação de cada filme.
-POST "/filmes/criar" => recebe um novo filme, com parâmetros de nome e ano, para ser adicionado ao banco de dados.
-PATCH "/filmes/exibicao/:id" => adiciona +1 na quantidade de exibições e pode receber no body uma avaliação (opcional) a ser adicionada na lista de avaliações.
-DELETE "/filmes/remover/:id" => remove o filme do catálogo pelo ID.
+- GET "/" => rota inicial da API.
+- GET "/filmes/catalogo" => retorna os filmes ordenados por pontuação, exibindo a pontuação de cada filme.
+- POST "/filmes/criar" => recebe um novo filme, com parâmetros de nome e ano, para ser adicionado ao banco de dados.
+- PATCH "/filmes/exibicao/:id" => adiciona +1 na quantidade de exibições e pode receber no body uma avaliação (opcional) a ser adicionada na lista de avaliações.
+- DELETE "/filmes/remover/:id" => remove o filme do catálogo pelo ID.
 
