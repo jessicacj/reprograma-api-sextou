@@ -19,7 +19,25 @@ Criar uma API, com banco de dados, que retorne qual filme deve aparecer no topo 
 
 ### Ferramentas utilizadas
 
+**Linguagem**: JavaScript
+
+**Framework**: Express.js
+
+**Banco de Dados**: MongoDB
+
+**IDE**: Visual Studio Code
+
 ### Instalação
+
+**git clone:**
+
+```git clone https://github.com/jessicacj/reprograma-api-sextou.git```
+
+Após clonar o repositório, você deverá acessar o diretório criado e iniciar o Node.JS através do seguinte comando
+
+Caso utilize o NPM, após clonar o repositório para o seu diretório, dê o seguinte comando:
+
+Se você está utilizando outro gerenciador de pacotes apenas altere o npm para seu respectivo instalador.
 
 ### Endpoints
 
