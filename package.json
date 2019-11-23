@@ -1,0 +1,26 @@
+{
+  "name": "reprograma-api-sextou",
+  "version": "1.0.0",
+  "description": "API de sexta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessicacj/reprograma-api-sextou.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessicacj/reprograma-api-sextou/issues"
+  },
+  "homepage": "https://github.com/jessicacj/reprograma-api-sextou#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.12"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
