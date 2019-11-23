@@ -13,7 +13,7 @@ Criar uma API, com banco de dados, que retorne qual filme deve aparecer no topo 
 #### Requisitos:
 
 - [x] Cada filme deve possuir os seguintes campos: nome, ano, avaliações, quantidade de exibições.
-      - Não podemos ter filmes diferentes com o mesmo nome.
+- Não podemos ter filmes diferentes com o mesmo nome.
 
 ### Ferramentas utilizadas
 
